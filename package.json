@@ -1,0 +1,21 @@
+{
+  "name": "hinhua-announce-bot",
+  "version": "1.0.0",
+  "description": "Hinhua High School Announce ",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "hinhua"
+  ],
+  "author": "gohchengxian",
+  "license": "MIT"
+}
